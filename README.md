@@ -1,6 +1,6 @@
 # Future-Development-Plan
 
-This development plan details what I plan for the future in order to reach my chosen profession. I outlines the skills my objectives, skills, potential learning, as well as responsibilities and milestones of each objective.
+This development plan details what I plan for the future in order to reach my chosen profession. The plan outlines the objectives, skills, potential learning, as well as responsibilities and milestones of each objective that I aim to achieve in order to .
 
 |No.#|Goal|Skills|Duration|Milestone|
 |----|----|----|----|----|
