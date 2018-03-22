@@ -1,5 +1,7 @@
 # Future-Development-Plan
 
+This development plan details what I plan for the future in order to reach my chosen profession. I outlines the skills my objectives, skills, potential learning, as well as responsibilities and milestones of each objective.
+
 |No.#|Goal|Skills|Duration|Milestone|
 |----|----|----|----|----|
 |1|Complete the First year of the HND Video Game Design and Production course with at least a merit grade|Work on my management skills, preferably, my time management to complete them on time and to the best of my ability|1 Year|Achieve the pass criteria and work towards the merits, possibly the distinctions|
