@@ -2,7 +2,7 @@
 
 This development plan details what I plan for the future in order to reach my chosen profession. The plan outlines the objectives, skills, potential learning, as well as responsibilities and milestones of each objective that I aim to get in order to achieve my desired goal.
 
-|No.#|Goal|Skills|Duration|Milestone|
+|No.#|Goal|Skills/Responsibilities of this aim|Duration|Milestone|
 |----|----|----|----|----|
 |1|Complete the First year of the HND Video Game Design and Production course with at least a merit grade|Work on my management skills, preferably, my time management to complete them on time and to the best of my ability|1 Year|Achieve the pass criteria and work towards the merits, possibly the distinctions|
 |2|Complete the First year of the HND Video Game Design and Production course with at least a merit grade|Work on my management skills, as mentioned in No.1. Improve upon the last goal if it hasn't beeen achieved and understand where the problems lie.|1 Year|Achieve the pass criteria and work towards the merits, possibly the distinctions. Look into Uni courses to further expand my knowledge|
